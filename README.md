@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I am Varun Manjuath
+
+A second Year Computer Science Masters Student at The University of Colorado,Boulder.
+My areas of interest include Machine Learning, Deep Learning, Full Stack Web Development.
 
 <!--
 **varunmanju/varunmanju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
